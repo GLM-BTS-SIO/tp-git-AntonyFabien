@@ -2,7 +2,7 @@
 @section('content')
 <div class="container">
     <div class="blanc">
-        <h1>fabien</h1>
+        <h1>Liste des Mangas</h1>
     </div>
     <table class="table table-bordered table-striped">
         <thead>

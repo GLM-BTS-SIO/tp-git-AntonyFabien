@@ -2,7 +2,7 @@
 @section('content')
 
 <div class="col-md-12 well well-sm">
-    <center><h1>Choix d'un Genre</h1></center>
+    <center><h1>Sélectionner un Genre</h1></center>
     {!! Form::open(['url' => 'listerMangasGenre']) !!}      
     <div class="form-horizontal">    
         <div class="form-group">
